@@ -1,7 +1,7 @@
 baseurl = "https://fatherjim.tech"
 #publishDir = "../fjtpublic/"
 languageCode = "en-us"
-title = "Father Jim Tech - Gospel. Technology. Life."
+title = "FatherJim.Tech - Gospel. Technology. Life."
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
