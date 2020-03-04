@@ -3112,8 +3112,19 @@ body.is-share-visible #share-menu {
   width:100%;
   padding-right:15px;
   padding-left:15px;
+  padding-bottom:15px;
   margin-right:auto;
   margin-left:auto
+}
+
+.row-green {
+  display:-ms-flexbox;
+  display:flex;
+  -ms-flex-wrap:wrap;
+  flex-wrap:wrap;
+  margin-right:-15px;
+  color: #00942c !important;
+  margin-left:-15px
 }
 
 .row {
@@ -3208,11 +3219,23 @@ body.is-share-visible #share-menu {
   max-width:100%
 }
 
+.col-md-4 {
+  -ms-flex:0 0 33.333333%;
+  flex:0 0 33.333333%;
+  max-width:33.333333%
+ }
+
 .col-md-8 {
   -ms-flex:0 0 66.666667%;
   flex:0 0 66.666667%;
   max-width:66.666667%
 }
+
+.col-lg-2 {
+  -ms-flex:0 0 16.666667%;
+  flex:0 0 16.666667%;
+  max-width:16.666667%
+ }
 
 .col-lg-10 {
   -ms-flex:0 0 83.333333%;

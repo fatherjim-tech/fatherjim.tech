@@ -22,12 +22,12 @@ var searchFn = function () {
             var openAnchor = "<a href=\"" + result.permalink + "\" " +
                 "alt=\"" + result.showTitle + "\">";
             var resultPane = "<div class=\"container\">" +
+                "<div class=\"row-green\">" +
+                openAnchor + result.showTitle + "</a></div>" +
                 "<div class=\"row\">" +
-                /*openAnchor + result.showTitle + "</a></div>" +
-                "<div class=\"row\">" +
-                "<div class=\"col-12 col-md-4 col-lg-2\">" +*/
+                "<div class=\"col-12 col-md-4 col-lg-2\">" +
                 openAnchor + "<img src=\"" + result.image + "\" alt=\"" + result.showTitle + "\" class=\"rounded w-100\"></a></div>" +
-                ("<div class=\"col-12 col-md-8 col-lg-10\"><small>" + result.showDescription + "</small></div>") +
+                ("<div class=\"col-12 col-md-8 col-lg-10\"><small>" + result.showSearchDesc + "</small></div>") +
                 "</div></div>";
             $("#results").append(resultPane);
         }
@@ -146,6 +146,7 @@ var searchFn = function () {
                 var res = {};
                 res.showTitle = result.title;
                 res.showDescription = result.description;
+                res.showSearchDesc = result.searchdesc;
                 res.title = normalize(result.title);
                 res.subtitle = normalize(result.subtitle);
                 res.description = normalize(result.description);
