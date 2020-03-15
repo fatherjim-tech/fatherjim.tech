@@ -12,9 +12,14 @@ pluralizeListTitles = false
 enableRobotsTXT = true
 canonifyURLs = true
 
+# Added for search functionality
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "RSS"]
+
+# To allow HTML in markdown files, set to true
+[markup.goldmark.renderer]
+  unsafe= true
 
 [params]
   # Sets the meta tag description
