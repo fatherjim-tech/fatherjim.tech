@@ -9,11 +9,11 @@ featured = "LOTH-guide.jpg"
 featuredpath = "/img/videos/"
 featuredalt = "Fr. Jim holding his phone showing iBreviary"
 categories = ["videos"]
-tags = ["2020"]
+tags = ["2020", "Guides", "Prayer"]
 author = "Fr. Jim"
 format = "Video"
-linktitle = ""
-link = ""
+linktitle = "Youtube Channel"
+link = "https://www.youtube.com/channel/UC3lhp0Xsr22O-RFjcBQZJOA"
 +++
 
 In this video, I show how easy it is to start praying the Liturgy of the Hours using a free app called iBreviary, which is available on Android and iOS devices.
