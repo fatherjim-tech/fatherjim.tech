@@ -1,7 +1,7 @@
 +++
 author = "Fr. Jim"
 categories = ["articles"]
-tags = ["2020"]
+tags = ["2020", "guides"]
 date = "2020-02-26"
 description = "A Cheat Sheet for Markdown Documents"
 searchdesc = "This website uses the Markdown language for a large majority of its content. This is a brief summary of Markdown syntax and how it looks with the theme of this site."

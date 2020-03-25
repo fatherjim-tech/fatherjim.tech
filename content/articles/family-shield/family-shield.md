@@ -1,7 +1,7 @@
 +++
 author = "Fr. Jim"
 categories = ["articles"]
-tags = ["2020"]
+tags = ["2020", "guides"]
 date = "2020-03-07"
 description = "Protect Your Family From Inappropriate Websites"
 searchdesc = "In this article, I outline a quick and easy way to protect your family from inappropriate websites and internet content by using OpenDNS Family Shield DNS servers."
