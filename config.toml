@@ -101,7 +101,7 @@ canonifyURLs = true
 [params.intro]
   header    = ""
 
-  paragraph = "Welcome to FatherJim.Tech, where we explore the Gospel message of Jesus Christ through media, technology, and open source software"
+  paragraph = "Welcome to FatherJim.Tech, where we share the Gospel message of Jesus Christ through media, technology, and open source software"
 
   about     = "Hailing just a few miles away from the famous Trenton Makes the World Takes bridge, Fr. Jim is a native Trentonian and priest of the Diocese of Trenton, New Jersey. After completing his seminary formation at St. Mary’s Seminary and University in Baltimore, MD, Fr. Jim was ordained to the priesthood of Jesus Christ on June 2, 2018."
 
