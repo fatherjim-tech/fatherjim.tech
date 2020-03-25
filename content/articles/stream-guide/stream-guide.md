@@ -27,6 +27,7 @@ If you have a tablet, smartphone, or mobile device with a camera and microphone,
 
 # Table of Contents
 *Please use these links to quickly jump to each section. Use the browser's back button to return to this menu.*  
+
 1. [Create Accounts](#create-accounts)
 
 2. [Configure Accounts](#configure-accounts)
