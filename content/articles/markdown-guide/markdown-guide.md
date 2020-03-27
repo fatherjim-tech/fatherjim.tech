@@ -12,6 +12,7 @@ featuredalt = "Markdown Text"
 linktitle = ""
 title = "Markdown Guide"
 type = "post"
+format = "article"
 
 +++
 

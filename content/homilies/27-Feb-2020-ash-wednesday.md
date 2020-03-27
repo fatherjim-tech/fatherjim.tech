@@ -12,6 +12,7 @@ featuredpath = "/img/homilies/"
 linktitle = ""
 title = "God Transforms Us From Within"
 type = "post"
+format = "homily"
 
 +++
 

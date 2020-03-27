@@ -12,6 +12,7 @@ featuredpath = "/img/blog/welcome/"
 linktitle = ""
 title = "Welcome to FatherJim.Tech"
 type = "post"
+format = "blog"
 
 +++
 

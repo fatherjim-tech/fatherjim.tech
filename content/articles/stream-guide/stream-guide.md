@@ -12,6 +12,7 @@ featuredalt = "Father Jim Live Streaming Guide"
 linktitle = ""
 title = "Live Streaming Guide"
 type = "post"
+format = "article"
 
 +++
 

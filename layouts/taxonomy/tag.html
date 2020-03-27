@@ -7,7 +7,7 @@
         <h1>{{ .Title }}</h1>
         {{ $paginator := .Paginate (where (where .Data.Pages "Type" "in" (slice "post" "videos")).ByDate.Reverse "Params.hidden" "!=" true) 10 }}
         {{ range $paginator.Pages }}
-            {{ .Render "content-list" }}
+            {{ .Render "tags-list" }}
         {{ end }}
 
         {{ partial "pagination" . }}

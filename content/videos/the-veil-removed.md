@@ -11,7 +11,7 @@ featuredalt = "The Most Holy Sacrifice of the Altar"
 categories = ["videos"]
 tags = ["2019"]
 author = "The Veil Removed"
-format = "Video"
+format = "video"
 linktitle = "Website"
 link = "https://theveilremoved.com/"
 +++

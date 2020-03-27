@@ -12,6 +12,7 @@ featuredalt = "OpenDNS Family Shield"
 linktitle = ""
 title = "Open-DNS Family Shield"
 type = "post"
+format = "article"
 
 +++
 

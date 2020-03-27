@@ -11,7 +11,7 @@ featuredalt = "Fr. Jim holding his phone showing iBreviary"
 categories = ["videos"]
 tags = ["2020", "Guides", "Prayer"]
 author = "Fr. Jim"
-format = "Video"
+format = "video"
 linktitle = "Youtube Channel"
 link = "https://www.youtube.com/channel/UC3lhp0Xsr22O-RFjcBQZJOA"
 +++
