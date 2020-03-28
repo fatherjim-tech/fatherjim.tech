@@ -1,0 +1,74 @@
+<div id="main">
+<!-- This if statement only applies if someone goes to the /categories url -->
+  <!-- Otherwise this section is shown for all other links -->
+  {{ if .Site.Params.showSidebarCategories  }}
+  {{ if ne ($.Scratch.Get "showCategories") false }}
+  <!-- Categories List -->
+    <section id="categories">
+      <header>
+        <h1>
+          <a href="/categories/">Categories</a>
+        </h1>
+      </header>
+        {{ if .Site.Params.categoriesByCount }}
+          {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.ByCount }}
+        {{ else }}
+          {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.Alphabetical }}
+        {{ end }}
+
+        {{ range $key, $value := $.Scratch.Get "categories" }}
+        <p>
+          <article>
+            <header>
+              {{ if ne $value.Name "" }}
+                <a href="/categories/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>
+                <span style="float:right;">{{ $value.Count }}</span>
+              {{ else }}
+                Uncategorized
+                <span style="float:right;">{{ $value.Count }}</span>
+              {{ end }}
+            </header>
+          </article>
+        </p>
+        {{ end }}
+    </section>
+  {{ end }}
+  {{ end }}
+<br>
+<br>
+  <!-- This if statement only applies if someone goes to the /categories url -->
+  <!-- Otherwise this section is shown for all other links -->
+  {{ if .Site.Params.showSidebarTags  }}
+  {{ if ne ($.Scratch.Get "showTags") false }}
+  <!-- Categories List -->
+  <section id="tags">
+    <header>
+      <h1>
+        <a href="/tags/">Tags</a>
+      </h1>
+    </header>
+      {{ if .Site.Params.tagsByCount }}
+        {{ $.Scratch.Set "tags" .Site.Taxonomies.tags.ByCount }}
+      {{ else }}
+        {{ $.Scratch.Set "tags" .Site.Taxonomies.tags.Alphabetical }}
+      {{ end }}
+
+      {{ range $key, $value := $.Scratch.Get "tags" }}
+      <p>
+        <article>
+          <header>
+            {{ if ne $value.Name "" }}
+              <a href="/tags/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>
+              <span style="float:right;">{{ $value.Count }}</span>
+            {{ else }}
+              Uncategorized
+              <span style="float:right;">{{ $value.Count }}</span>
+            {{ end }}
+          </header>
+        </article>
+      </p>
+      {{ end }}
+  </section>
+  {{ end }}
+  {{ end }}
+  </div>

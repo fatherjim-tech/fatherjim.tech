@@ -6,3 +6,7 @@ aliases:
     - "/search"
 ---
 {{< staticsearch >}}
+
+---
+
+{{< all-taxonomies >}}
