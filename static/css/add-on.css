@@ -1789,6 +1789,9 @@ dl {
         .videos > header .title p {
           text-transform: none;
           line-height: 1.75;
+          font-weight: 500;
+          font-size: .65em;
+          text-transform: uppercase;
         }
         .videos > header .title > :last-child {
           margin-bottom: 0;
