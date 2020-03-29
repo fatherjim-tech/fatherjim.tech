@@ -18,7 +18,7 @@ format = "blog"
 
 # iBreviary on the Web
 
-I have always been a bit of a purist when it comes to prayer. What do I mean by that? Well, I have always preferred to pray using using a book or some other tangible accessory like a Rosary. I suppose you could say I'm a bit of a kinetic pray-er insofar as holding something in my hands gives me a sense of comfort. For me, there is just something affirming about grabbing my breviary, turning pages, and flipping ribbons.
+I have always been a bit of a purist when it comes to prayer. What do I mean by that? Well, I have always preferred to pray using using a book or some other tangible accessory like a Rosary. I suppose you could say I'm a bit of a kinetic pray-er insofar as holding something in my hands gives me a sense of comfort. For me, there is just something affirming about grabbing my breviary, turning pages, and flipping ribbons. Nothing really says it's prayer time than grabbing that special book filled with God's Word.
 
 {{< img-post-width "/img/blog/ibreviary" "breviary.jpg" "text" "" "60%">}}
 
