@@ -28,7 +28,6 @@
       </ul>
     {{ end }}
   </section>
-
   <!-- Posts List -->
   <section class="recent-posts">
     <div class="mini-posts">
@@ -59,7 +58,6 @@
           </article>
         {{ end }}
       </div>
-
       {{ if ge (len (where .Site.Pages "Type" "post")) ($.Scratch.Get "postLimit") }}
         <a href=
           {{ with .Site.Params.viewMorePostLink }}
@@ -70,6 +68,8 @@
         class="button">More homilies</a>
       {{ end }}
     </div>
+    <!-- iBreviary Widget -->
+    <iframe src="http://www.ibreviary.com/m2/breviario.php?lang=en" width="340" height="450" style="border: 0px solid #151515;"></iframe>
   </section>
 
   <!-- This if statement only applies if someone goes to the /categories url -->
