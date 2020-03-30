@@ -235,8 +235,10 @@ When it comes to capturing a clear image, lighting is everything. Perhaps that's
 Whenever possible, try to avoid low-light correction from a mobile device. While this may look okay on the mobile device, but it will be different on a computer screen or television. Often, the picture quality will appear grainy and washed out on larger screens.
 
 ### Sound
-There is no substitute for good sound. When God said, "Let there be light," the light heard and responded with its brightness and splendor. Many of the microphones on mobile devices are decent, but far from perfect. So, be sure to speak loudly and clearly when relying on the built-in microphone.
+There is no substitute for good sound. When God said, "Let there be light," the light ***heard*** and responded with its brightness and splendor. Many of the microphones on mobile devices are decent, but far from perfect. So, be sure to speak loudly and clearly when relying on the built-in microphone.
 
 For better results, an inexpensive wireless lavalier microphone can often make a world of difference. Click [here](https://www.amazon.com/Wireless-Lapel-Microphone-System-Conference/dp/B07Y45TCVJ/ref=sr_1_17?keywords=wireless+lavalier+microphone+for+iphone&qid=1585108979&sr=8-17) for an example of a dual wireless setup for mobile devices.
+
+[{{< img-post-width "/img/articles/stream-guide/" "nasum-lapel-mic-set.jpg" "text" "" "50%">}}](https://www.amazon.com/Wireless-Lapel-Microphone-System-Conference/dp/B07Y45TCVJ/ref=sr_1_17?keywords=wireless+lavalier+microphone+for+iphone&qid=1585108979&sr=8-17)
 
 ---
