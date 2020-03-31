@@ -28,10 +28,10 @@
             {{ end }}
             <li class="search">
                 <a class="fa-search" href="/search">Search</a>
-                <form id="search" method="get" action="/search/">
+                <!--<form id="search" method="get" action="/search/">
                     <input type="text" name="q" placeholder="Site Search" />
                     <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL }}">
-                </form>
+                </form>-->
             </li>
             <li class="menu">
                 <a class="fa-bars" href="#menu">Menu</a>
@@ -46,11 +46,11 @@
     <!-- Search -->
         <section>
             <a class="fa-search" href="/search">Search</a>
-            <form class="search" method="get" action="/search">
+            <!--<form class="search" method="get" action="/search">
                 <input type="text" name="q" placeholder="Site Search" />
-                <!--<input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL }}">-->
                 <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL }}">
-            </form>
+                <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL }}">
+            </form>-->
         </section>
 
     <!-- Links -->
