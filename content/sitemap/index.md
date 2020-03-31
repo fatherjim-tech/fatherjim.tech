@@ -1,11 +1,10 @@
 ---
 Title: "Sitemap"
-description: "Search via keywords, or browse via categories or tags below."
+description: "Browse content on this site using the categories or tags below."
 
 aliases:
     - "/sitemap"
----
-{{< staticsearch >}}
-
+#---
+#{{< staticsearch >}}
 ---
 {{< all-taxonomies >}}
