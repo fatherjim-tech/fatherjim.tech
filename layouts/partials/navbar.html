@@ -26,7 +26,7 @@
                 <a class="fa-share-alt" href="#share-menu">Share</a>
             </li>
             {{ end }}
-            <li class="share-nav">
+            <li class="search">
                 <a class="fa-search" href="/search">Search</a>
                 <!--<form id="search" method="get" action="/search/">
                     <input type="text" name="q" placeholder="Site Search" />
@@ -45,7 +45,9 @@
 
     <!-- Search -->
         <section>
-            <a class="fa-search" href="/search">Search</a>
+            <ul class="links">
+            <a href="/search">
+                <i class="fa-search"></i>Search</a></ul>
             <!--<form class="search" method="get" action="/search">
                 <input type="text" name="q" placeholder="Site Search" />
                 <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL }}">
