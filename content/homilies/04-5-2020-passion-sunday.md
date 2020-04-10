@@ -1,7 +1,7 @@
 +++
 author = "Fr. Jim"
 categories = ["homilies"]
-tags = ["sundays", "2020"]
+tags = ["sundays", "lent", "holy-week", "2020"]
 date = "2020-04-05"
 description = "Sunday of the Passion of the Lord, Year A"
 searchdesc = "Jesus says, 'Father, let this cup pass from me; yet not as I will, but as you will.' Do we pray the Our Father as fervently as Jesus models for us in the Garden of Gethsemane?"

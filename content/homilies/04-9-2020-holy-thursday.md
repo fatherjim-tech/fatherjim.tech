@@ -1,7 +1,7 @@
 +++
 author = "Fr. Jim"
 categories = ["homilies"]
-tags = ["triduum", "2020"]
+tags = ["lent", "holy-week", "2020"]
 date = "2020-04-09"
 description = "Thursday of the Lord's Supper"
 searchdesc = "Jesus says, 'Unless I wash you, you will have no inheritance with me.' Lord, wash us of our iniquities and deliver us from evil."

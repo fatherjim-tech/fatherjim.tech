@@ -1,7 +1,7 @@
 +++
 author = "Fr. Jim"
 categories = ["homilies"]
-tags = ["weekdays", "2020"]
+tags = ["weekdays", "lent", "2020"]
 date = "2020-02-26"
 description = "Ash Wednesday"
 searchdesc = "Today marks the beginning of the season of Lent. We gather together to be reminded of our humanity and humble ourselves before Almighty God."
