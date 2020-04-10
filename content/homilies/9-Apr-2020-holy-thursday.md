@@ -16,6 +16,10 @@ format = "homily"
 
 +++
 
+{{< youtube I9H5p8ywVvs >}}
+
+---
+
 # Readings:
 ## Ex. 12:1-8, 11-14; Ps. 116; 1 Cor. 11:23-26; Jn. 13:1-15
 
