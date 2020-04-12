@@ -16,6 +16,10 @@ format = "homily"
 
 +++
 
+{{< youtube QK237AemR6U >}}
+
+---
+
 # Readings:
 ## Gn. 1:1-2:2, Ex. 14:15-15:1, Is. 55:1-11, Rm. 6:3-11; Mt. 28:1-10
 
