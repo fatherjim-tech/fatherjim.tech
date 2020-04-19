@@ -16,6 +16,10 @@ format = "homily"
 
 +++
 
+{{< youtube t6t6Qc3_03E >}}
+
+---
+
 # Readings:
 ## Acts 2:42-47; Ps. 118; 1 Pt. 1:3-9; Jn. 20:19-31
 
