@@ -84,7 +84,7 @@ Once our channel has been created, use the dropdown menu and click on **Your cha
 
 There is a lot we can do here to enhance the look of the channel. Start by adding channel graphics such as the icon and banner. Then click on the **About** tab and add a description for our organization, e-mail, and website address.
 {{< img-post-width "/img/articles/stream-guide/" "youtube-channel-about.jpg" "text" "" "90%">}}
-*For more information on image dimensions for channel art, please visit this [YouTube Help](https://support.google.com/youtube/answer/2972003?hl=en) article.*
+*For more information on image dimensions for channel art, please visit this {{< url-link "YouTube Help" "https://support.google.com/youtube/answer/2972003?hl=en" "_blank">}} article.*
 
 # <a name="configure-twitch"></a>
 ## Twitch Initial Configuration
