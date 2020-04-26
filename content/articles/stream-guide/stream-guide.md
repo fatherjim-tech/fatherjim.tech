@@ -84,7 +84,7 @@ Once our channel has been created, use the dropdown menu and click on **Your cha
 
 There is a lot we can do here to enhance the look of the channel. Start by adding channel graphics such as the icon and banner. Then click on the **About** tab and add a description for our organization, e-mail, and website address.
 {{< img-post-width "/img/articles/stream-guide/" "youtube-channel-about.jpg" "text" "" "90%">}}
-*For more information on image dimensions for channel art, please visit this {{< url-link "YouTube Help" "https://support.google.com/youtube/answer/2972003?hl=en" "_blank">}} article.*
+*For more information on image dimensions for channel art, please visit this {{< url-link "YouTube Help" "https://support.google.com/youtube/answer/2972003?hl=en" "_blank" >}} article.*
 
 # <a name="configure-twitch"></a>
 ## Twitch Initial Configuration
@@ -129,7 +129,7 @@ From this point, you can click **Add Channel** to add Facebook Live, Twitch, or 
 # <a name="youtube-live"></a>
 ---
 # Step 3 - Configure YouTube Stream Now
-Just like Twitch, we can also add text and graphics to our stream. Click [here](https://www.youtube.com/live_dashboard) to visit your Live Dashboard. From here, we can change the thumbnail, title, description, and privacy. YouTube uses our channel banner by default, but we can upload something else, perhaps an image with the word "live" so viewers will know that we're live. It is recommended to set the privacy to **Public** otherwise no one will be able to see the stream live.
+Just like Twitch, we can also add text and graphics to our stream. Click {{< url-link "here" "https://www.youtube.com/live_dashboard" "_blank" >}} to visit your Live Dashboard. From here, we can change the thumbnail, title, description, and privacy. YouTube uses our channel banner by default, but we can upload something else, perhaps an image with the word "live" so viewers will know that we're live. It is recommended to set the privacy to **Public** otherwise no one will be able to see the stream live.
 {{< img-post-width "/img/articles/stream-guide/" "youtube-live-backend.jpg" "text" "" "90%">}}
 
 Here is an example description including a regular streaming schedule and a link to our website. When finished updating basic information, click on the **Advanced settings** link.
@@ -144,7 +144,7 @@ Lastly, back on the Live Dashboard, scroll down to the bottom to reveal the link
 ---
 # Step 4 - Install & Configure StreamLabs
 ### On Android & iOS Devices
-Now it's time to install an app on our mobile device. [StreamLabs](https://streamlabs.com/) is FOSS (Free & Open Source Software) powered by [Open Broadcaster Software](https://obsproject.com/) (OBS for short), which enables us to easily capture video & audio from our mobile device and stream it to any platform. We will use StreamLabs to connect to Restream.io so we can stream to multiple platforms at once.
+Now it's time to install an app on our mobile device. {{< url-link "StreamLabs" "https://streamlabs.com/" "_blank" >}} is FOSS (Free & Open Source Software) powered by {{< url-link "Open Broadcaster Studio" "https://obsproject.com/" "_blank" >}} (OBS for short), which enables us to easily capture video & audio from our mobile device and stream it to any platform. We will use StreamLabs to connect to Restream.io so we can stream to multiple platforms at once.
 
 From the Play Store or App Store, we'll search for StreamLabs and install it on our device.
 {{< img-post-width "/img/articles/stream-guide/" "streamlabs-install.jpg" "text" "" "30%">}}
@@ -237,7 +237,7 @@ Whenever possible, try to avoid low-light correction from a mobile device. While
 ### Sound
 There is no substitute for good sound. When God said, "Let there be light," the light ***heard*** and responded with its brightness and splendor. Many of the microphones on mobile devices are decent, but far from perfect. So, be sure to speak loudly and clearly when relying on the built-in microphone.
 
-For better results, an inexpensive wireless lavalier microphone can often make a world of difference. Click [here](https://www.amazon.com/Wireless-Lapel-Microphone-System-Conference/dp/B07Y45TCVJ/ref=sr_1_17?keywords=wireless+lavalier+microphone+for+iphone&qid=1585108979&sr=8-17) for an example of a dual wireless setup for mobile devices.
+For better results, an inexpensive wireless lavalier microphone can often make a world of difference. Click {{< url-link "here" "https://www.amazon.com/Wireless-Lapel-Microphone-System-Conference/dp/B07Y45TCVJ/ref=sr_1_17?keywords=wireless+lavalier+microphone+for+iphone&qid=1585108979&sr=8-17" "_blank" >}} for an example of a dual wireless setup for mobile devices.
 
 [{{< img-post-width "/img/articles/stream-guide/" "nasum-lapel-mic-set.jpg" "text" "" "50%">}}](https://www.amazon.com/Wireless-Lapel-Microphone-System-Conference/dp/B07Y45TCVJ/ref=sr_1_17?keywords=wireless+lavalier+microphone+for+iphone&qid=1585108979&sr=8-17)
 
