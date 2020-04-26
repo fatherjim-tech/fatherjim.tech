@@ -70,7 +70,6 @@ img-post-width "/img/about/" "example.jpg" "Alt text" "center" "60%"
     {{ else if eq $type "right" }}
         <p><img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}" width="{{ $width }}" align="right" style="padding:10px;"></p>
     {{ else }}
-        <center><img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}" width="{{ $width }}"></center>
-        
+        <center><img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}" width="{{ $width }}" style="padding:10px;"></center>
     {{ end }}
 {{ end }}

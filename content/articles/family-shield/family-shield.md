@@ -35,7 +35,7 @@ So, let me show you just how easy it is to set this up on your home router.
 Watch the video here:
 {{< youtube SqTSTKCXmGQ >}}
 
-The following has been adapted from the OpenDNS Family Shiled Guide at: https://support.opendns.com/hc/en-us/articles/228006487-FamilyShield-Router-Configuration-Instructions
+The following has been adapted from the OpenDNS Family Shiled Guide at: [https://support.opendns.com/hc/en-us/articles/228006487-FamilyShield-Router-Configuration-Instructions](https://support.opendns.com/hc/en-us/articles/228006487-FamilyShield-Router-Configuration-Instructions)
 
 ---
 
@@ -65,7 +65,7 @@ Under ISP/WAN settings there will be a field labeled DNS which allows two or thr
 _**Make sure these are the only two addresses (if there is a third one, write it down, but delete it).**_
  
 4. Test your Settings  
-Browse to https://welcome.opendns.com/.  
+Browse to [https://welcome.opendns.com/](https://welcome.opendns.com/).  
 If you have successfully set your public DNS to the OpenDNS servers, you will see "Welcome to OpenDNS!".
 ---
 Now that you and your family are better protected online, let's have a pat on the back because you just saved your family from all kinds of evil.

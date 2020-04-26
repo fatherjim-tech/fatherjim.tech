@@ -16,7 +16,7 @@ linktitle = "Youtube Channel"
 link = "https://www.youtube.com/channel/UC3lhp0Xsr22O-RFjcBQZJOA"
 +++
 
-In this video, I show how to configure your home router to use OpenDNS Family Shield to filter inappropriate content for your whole network. The best part is it's simple to do and totally free! For more information about OpenDNS, please see my article here: [OpenDNS Family Shield](http://localhost:1313/articles/family-shield/family-shield/).
+In this video, I show how to configure your home router to use OpenDNS Family Shield to filter inappropriate content for your whole network. The best part is it's simple to do and totally free! For more information about OpenDNS, please see my article here: [OpenDNS Family Shield](/articles/family-shield/family-shield/).
 
 ---
 
