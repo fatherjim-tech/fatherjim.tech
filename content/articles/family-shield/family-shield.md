@@ -33,7 +33,7 @@ Fortunately, OpenDNS Family Shield allows us to use their DNS servers to filter 
 So, let me show you just how easy it is to set this up on your home router.
 
 Watch the video here:
-{{< youtube SqTSTKCXmGQ >}}
+{{< youtube IT0K23Cposk >}}
 
 The following has been adapted from the OpenDNS Family Shiled Guide at: [https://support.opendns.com/hc/en-us/articles/228006487-FamilyShield-Router-Configuration-Instructions](https://support.opendns.com/hc/en-us/articles/228006487-FamilyShield-Router-Configuration-Instructions)
 
