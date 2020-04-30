@@ -33,7 +33,7 @@ Jitsi provides its own servers that anyone can use for free, however, for added 
 * Ability to assign moderators for meetings
 * Ability to lock the server, preventing random & anonymous users from entering a conference
 
-Jitsi is one of the best solutions for any organization interesting in having online video conferences, whether that be churches, schools, businesses, or even families. One of the best ways to bolster security and privacy for your online meetings is by hosting them on your own secure server.
+Jitsi is one of the best solutions for any organization interested in having online video conferences, whether it be for churches, schools, businesses, or even families. One of the best ways to bolster security and privacy for your online meetings is by hosting them on your own secure server.
 
 The following is a step-by-step guide for how to setup Jitsi Meet on a dedicated virtual private server (VPS). *For those who would like to use their own equipment, simply skip the step for renting a VPS.*
 
