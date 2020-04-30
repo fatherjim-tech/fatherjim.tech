@@ -25,6 +25,7 @@ Popular video conferencing platforms are not immune to security vulnerabilites. 
 Jitsi is a free and open source collection of programs, particularly Jitsi Meet and Jitsi Videobridge, which enable users to create their own private video conferences. Because the software is open source, the source code may be viewed by anyone. With multiple eyes inspecting the code, we can be sure that invulnerabilities are spotted and patched, making Jitsi one of the most secure video conferencing solutions available to anyone. The best part is: Jitsi is totally free!
 
 Jitsi provides its own servers that anyone can use for free, however, for added security, some organizations may prefer to run their own instances of Jitsi Meet. There are several benefits to running your own Jitsi server, including:
+
 * Using dedicated hardware tailored to your needs
 * SSL encryption via Certbot for secure connections
 * Personalized URL (e.g. jitsi.fatherjim.tech)
