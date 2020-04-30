@@ -42,13 +42,23 @@ The following is a step-by-step guide for how to setup Jitsi Meet on a dedicated
 # Table of Contents
 *Please use these links to quickly jump to each section. Use the browser's back button to return to this menu.*  
 
-1. [Choose a Server Rental Provider](#server-rental)
+1. [Choose a Server Provider](#server-rental)
 
 2. [Determine VPS Specifications](#VPS-specs)
 
 3. [VPS Setup](#VPS-setup)
+    1. Add a New Server
+    2. Create a Subdomain
 
 4. [Install Jitsi](#install-jitsi)
+    1. Update the VPS
+    2. Add Domain to Hostname File
+    3. Add Domain to Hosts File
+    4. Install Prerequisite Packages
+    5. Add Jitsi Repo to Package Manager
+    6. Install Jitsi Package
+    7. Secure the Server with Letsencrypt
+    8. Setup Authentication for Moderators
 
 5. [Begin Using Jitsi](#begin)
 
@@ -56,7 +66,7 @@ The following is a step-by-step guide for how to setup Jitsi Meet on a dedicated
 
 ---
 
-# Step 1 - Choose a Server Rental Provider
+# Step 1 - Choose a Server Provider
 
 There are several providers of virtual private servers (VPS's) online. Below are some of the more popular choices.
 
