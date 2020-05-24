@@ -1,7 +1,7 @@
 +++
 author = "Fr. Jim"
 categories = ["homilies"]
-tags = ["sundays", "easter", "holy-week", "2020"]
+tags = ["sundays", "easter", "solemnities", "holy-week", "2020"]
 date = "2020-04-11"
 description = "Easter Sunday of the Resurrection of the Lord: The Easter Vigil"
 searchdesc = "Christ is risen, alleluia! Truly, He is risen, alleluia! This was the first time I preached at the Easter Vigil Mass. It was to an empty church during the COVID-19 pandemic. Only a handful of people were present, but the parish was with us via live stream."
