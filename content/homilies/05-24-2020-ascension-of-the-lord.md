@@ -16,12 +16,14 @@ format = "homily"
 
 +++
 
+{{< youtube eY6DnQ24pTk >}}
+
 ---
 
 # Readings:
 ## Acts 1:1-11; Ps. 47; Eph. 1:17-23; Matt. 28:19a, 20b
 
-Today, we celebrate the Solemnity of the Ascension of the Lord, which commemmorates the event of Jesus’ ascension into heaven, where he is now seated at the right hand of the Father. St. Paul tells us that the honor bestowed upon Jesus places him “far above every principality, authority, power, and dominion, and every name that is named not only in this age but also in the one to come.” St. Peter echoes this, saying, “There is no salvation through anyone else, nor is there any other name under heaven given to the human race by which we are to be saved” (Acts 4:12). What we celebrate today is not just the Ascension, but the culmination of everything Jesus sought to accomplish throughout his ministry on Earth.
+Today, we celebrate the Solemnity of the Ascension of the Lord, which commemmorates the event of Jesus’ ascension into heaven, where he is now seated at the right hand of the Father. St. Paul tells us that the honor bestowed upon Jesus places him “far aSbove every principality, authority, power, and dominion, and every name that is named not only in this age but also in the one to come.” St. Peter echoes this, saying, “There is no salvation through anyone else, nor is there any other name under heaven given to the human race by which we are to be saved” (Acts 4:12). What we celebrate today is not just the Ascension, but the culmination of everything Jesus sought to accomplish throughout his ministry on Earth.
 
 Yesterday, Fr. Bambrick spoke of Jesus’ suffering as fundamental to what it means to be a Christian. We all experience suffering in one way or another, just as Jesus suffered. But, our faith in the Resurrection of Jesus gives us hope that our suffering is not in vein, rather, that like Jesus, we too will rise on the last day. Even amidst the terrible suffering caused by this pandemic, we are beginning to see the lifting of restrictions and the rise of a new age. I won’t say a “new normal” because I refuse to accept wearing masks and social distancing as “normal,” but if it is necessary for a time, if we have to suffer smelling our own bad breath through those masks in order to come to Mass and receive the sacraments, then we do whatever it takes. What we celebrate here is too important, too fundamental to who we are as followers of Jesus. And the readings today give us tremendous hope as Jesus does not leave his disciples empty-handed, but instead leaves them with a promise.
 
