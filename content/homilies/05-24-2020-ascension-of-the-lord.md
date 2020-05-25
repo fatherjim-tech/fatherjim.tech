@@ -21,7 +21,7 @@ format = "homily"
 ---
 
 # Readings:
-## Acts 1:1-11; Ps. 47; Eph. 1:17-23; Matt. 28:19a, 20b
+## Acts 1:1-11; Ps. 47; Eph. 1:17-23; Matt. 28:16-20
 
 Today, we celebrate the Solemnity of the Ascension of the Lord, which commemmorates the event of Jesus’ ascension into heaven, where he is now seated at the right hand of the Father. St. Paul tells us that the honor bestowed upon Jesus places him “far aSbove every principality, authority, power, and dominion, and every name that is named not only in this age but also in the one to come.” St. Peter echoes this, saying, “There is no salvation through anyone else, nor is there any other name under heaven given to the human race by which we are to be saved” (Acts 4:12). What we celebrate today is not just the Ascension, but the culmination of everything Jesus sought to accomplish throughout his ministry on Earth.
 
