@@ -39,7 +39,9 @@ Seventy-six years ago, thousands of soldiers fought at the Battle of Normandy be
 
 So, on this somber Solemnity of the Most Holy Trinity, let us pray for healing for our country, for peace in our streets, for true charity among fellow members of the human community. Let us thank God for the gifts we do have, and ask him to continue to watch over us during these times of trial. May our faith be strengthened and our broken hearts made whole, that this holy sacrifice we offer for the sake of the whole world, may bring about the conversion of hearts, a return to the sacraments, a new era of peace in Jesus’ Name.
 
-Watch Archbishop Fulton J. Sheen on the subject of communism here: [Communism in America](https://www.youtube.com/watch?v=w5iUYQ_yF_M).
-
 ---
 *Given during the COVID-19 pandemic.*
+
+Watch Archbishop Fulton J. Sheen on the subject of communism here: [Communism in America](https://www.youtube.com/watch?v=w5iUYQ_yF_M).
+
+Read Pope Leo XIII's Encyclical [Rerum Novarum](http://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html).
