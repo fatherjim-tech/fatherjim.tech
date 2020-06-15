@@ -1,7 +1,7 @@
 +++
 author = "Fr. Jim"
 categories = ["homilies"]
-tags = ["sundays", "ordinary time", "solemnities", "2020"]
+tags = ["sundays", "ordinary-time", "solemnities", "2020"]
 date = "2020-06-14"
 description = "Solemnity of the Most Holy Body & Blood of Christ, Year A"
 searchdesc = "Throughout the history of the Church, there has been no greater unifier than Jesus Christ. On this Solemnity of Corpus Christi, we gather to receive the true Bread from Heaven, which is Jesus' own flesh for the life of the world."
