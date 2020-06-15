@@ -5,3 +5,9 @@ command = "hugo --gc --minify"
 [environment]
 HUGO_VERSION = "0.63.2"
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/riot"
+  to = "https://riot.fatherjim.online"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
