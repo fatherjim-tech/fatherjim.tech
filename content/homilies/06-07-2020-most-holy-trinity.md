@@ -1,7 +1,7 @@
 +++
 author = "Fr. Jim"
 categories = ["homilies"]
-tags = ["sundays", "easter", "solemnities", "2020"]
+tags = ["sundays", "ordinary time", "solemnities", "2020"]
 date = "2020-06-06"
 description = "Solemnity of the Most Holy Trinity, Year A"
 searchdesc = "The Most Holy Trinity is a communion of Divine persons: Father, Son, and Holy Ghost. The Trinity is an image of perfect community."
