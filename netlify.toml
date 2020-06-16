@@ -5,3 +5,9 @@ command = "hugo --gc --minify"
 [environment]
 HUGO_VERSION = "0.63.2"
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "_matrix/key/v2/server"
+  to = "https://matrix.fatherjim.tech:8448/_matrix/key/v2/server
+  status = 301
+  force = false
