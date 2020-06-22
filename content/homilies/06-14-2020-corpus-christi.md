@@ -16,6 +16,10 @@ format = "homily"
 
 +++
 
+{{< youtube h69XOge07fw >}}
+
+---
+
 # Readings:
 ## Dt. 8:2-3, 14b-16a; Ps. 147; 1 Cor. 10:16-17; Jn. 6:51-58
 
